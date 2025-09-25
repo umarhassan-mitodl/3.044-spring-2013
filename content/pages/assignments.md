@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the course homework assignments, solutions, and
   a video project assignment.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
